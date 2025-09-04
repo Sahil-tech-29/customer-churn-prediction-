@@ -1,0 +1,2 @@
+Age,State,Number_of_Referrals,Tenure_in_Months,Value_Deal,Internet_Service,Internet_Type,Online_Security,Premium_Support,Contract,Paperless_Billing,Payment_Method,Monthly_Charge,Total_Charges,Total_Extra_Data_Charges,Total_Long_Distance_Charges,Total_Revenue,Prediction,Timestamp
+51,Punjab,5,9,Deal 5,Yes,DSL,No,No,Month-to-Month,Yes,Bank Withdrawal,49.15,169.05,10,122.37,301.42,Churned,2025-07-07 10:35:58
